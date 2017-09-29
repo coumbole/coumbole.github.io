@@ -5,5 +5,3 @@
 ### Page under construction
 
 Blog for SCI project course at Aalto-university. More content to follow...
-
-[Meet the people](https://coumbole.github.io/people)
